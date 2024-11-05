@@ -1,3 +1,4 @@
+sequenceDiagram
 Note right of user: The user writes inside the textbox
 
 user->>browser: Press save button
